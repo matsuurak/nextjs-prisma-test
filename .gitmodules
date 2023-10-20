@@ -1,0 +1,3 @@
+[submodule "prisma-test"]
+	path = prisma-test
+	url = https://github.com/matsuurak/prisma-test.git
